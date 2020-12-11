@@ -16,3 +16,7 @@ div#page {
 th {
   padding-left: 50px;
 }
+
+td.percent {
+  text-align: center;
+}
