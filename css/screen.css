@@ -30,7 +30,7 @@ div#redbanner {
 h1 {
   font-size: 3em;
   margin-top: 10px;
-  margin-bottom: -15px;
+  margin-bottom: -20px;
 }
 
 th {
@@ -44,4 +44,13 @@ td.percent {
 
 caption {
   padding-left: 5px;
+}
+
+section#howto {
+	margin-top: 50px;
+	padding-bottom: 30px;
+}
+
+p.address {
+	margin-bottom: -15px;
 }
