@@ -1,6 +1,6 @@
 body {
 	background-color: lightblue;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Bitter', serif;
 }
 
 div#page {
@@ -31,6 +31,17 @@ h1 {
   font-size: 3em;
   margin-top: 10px;
   margin-bottom: -20px;
+	font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 2em;
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.5em;
 }
 
 th {
