@@ -14,9 +14,14 @@ div#page {
 }
 
 th {
-  padding-left: 50px;
+  padding-left: 10px;
 }
 
 td.percent {
+  padding-left: 10px;
   text-align: center;
+}
+
+caption {
+  padding-left: 5px;
 }
